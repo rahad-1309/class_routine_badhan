@@ -1,0 +1,48 @@
+section{
+    text-align: center;
+    font-size: 40px;
+    background-color: #f4f4f4 ;
+    margin-top:0px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    
+    
+}
+article{
+    text-align: center;
+    font-size: 20px;
+    
+}
+tr:nth-child(even){
+    background-color: #ffffff;
+}
+
+tr:nth-child(odd){
+    background-color: #ffffff;
+}
+th{
+    background-color: #ffffff;
+}
+ tr:hover {
+          background-color: #ffffff;
+          font-weight:bold;
+        }    
+table,th,td{
+    border: 1.5px solid rgb(0, 0, 0);
+    padding: 2px;
+    text-decoration-color:#000000;
+}
+body{
+    border:5px solid #ffffff;
+    padding: 5px;
+    font-family:  Comic Sans MS;
+    font-size: 15px;
+    line-height:1.5;
+    padding:0;
+    margin:0;
+    
+}
+
+.counselling{
+    background-color: rgb(246, 178, 6);
+}
